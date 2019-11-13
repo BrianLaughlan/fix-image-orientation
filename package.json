@@ -1,0 +1,11 @@
+{
+  "name": "fix-image-orientation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "jpeg-autorotate": "^5.0.2"
+  }
+}
